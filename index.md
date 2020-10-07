@@ -3,5 +3,6 @@ title: Erica McGovern
 ---
 
 
-[My repo](https://github.com/ericamcg/ABMpractical)
+# Projects
+[ABM Practical](https://github.com/ericamcg/ABMpractical)
 
