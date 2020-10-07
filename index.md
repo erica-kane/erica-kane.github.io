@@ -13,9 +13,9 @@ Please enjoy my first ever Python project, consisting of two agent based models 
 
 [ABM Practical](https://github.com/ericamcg/ABMpractical)
 
-This project involves two models, an initial model and an enhancement 
+This project involves two models, a base model and an enhancement 
 
-The initial model: 
+The base model: 
 
 - Reads in an environment
 - Scrapes web data used to initialise agents 
