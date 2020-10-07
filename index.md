@@ -1,7 +1,7 @@
 ---
-title: Test
+title: Erica McGovern
 ---
 
 
-Hello World
+[My repo](https://github.com/ericamcg/ABMpractical)
 
