@@ -32,5 +32,6 @@ The enhanced model:
 - Plots behaviours on an animated matplotlib scatter graph
 
 
-Please refer to the [README](https://github.com/ericamcg/ABMpractical/blob/master/README.md) file before attempting to run the model.
+
+**Please refer to the [README](https://github.com/ericamcg/ABMpractical/blob/master/README.md) file before attempting to run the model.**
 
