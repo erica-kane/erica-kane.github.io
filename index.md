@@ -14,4 +14,4 @@ Click here to find out more about my PhD project.
 
 ## Programming Projects
 
-[GEOG5995M Programming for Social Science Core Skills: Assignment 1](projects.md)
+[GEOG5995M Programming for Social Science Core Skills: Assignment 1](geogassignment1.md)
