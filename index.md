@@ -4,11 +4,14 @@ title: Erica McGovern
 
 # About Me
 
-My name is Erica McGovern and I am from Belfast, Northern Ireland. I recently graduated from a Criminology undergraduate course at the University of Leeds, where I currently study as a first year MSc/PhD student. I am a beginner programmer, with experience in basic R and Python.
-
-Please enjoy my first ever Python project, consisting of two agent based models which create and move agents inside an environment. 
+My name is [Erica McGovern](https://www.linkedin.com/in/erica-mcgovern-65356b140/) and I am from Belfast, Northern Ireland. I recently graduated with an BSc in Criminal Justice and Criminology (Quantitative)(International) from the Univeristy of Leeds. I am currently a first year [CDT](https://datacdt.org) student, working towards an MSc and PhD.  I am a beginner programmer, with experience in R for data cleaning, analysis, and representation. I have some basic Python experience, and I am currently working on broadening my knowledge of the langauge as it will be essential throughout my PhD project. 
 
 
-# Projects
+## PhD Project 
+
+Click here to find out more about my PhD project.
+
+
+## Programming Projects
 
 [GEOG5995M Programming for Social Science Core Skills: Assignment 1](projects.md)
