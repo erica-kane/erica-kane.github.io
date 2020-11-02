@@ -1,8 +1,8 @@
-# GEOG5995M Programming for Social Science Core Skills 
+# GEOG5995M Programming for Social Science Core Skills: 
 
-# Assignment 1
+## Assignment 1
 
-## [ABM Practical](https://github.com/ericamcg/ABMpractical)
+### [ABM Practical](https://github.com/ericamcg/ABMpractical)
 
 This project involves two models, a base model and an enhancement 
 
