@@ -11,6 +11,7 @@ Please enjoy my first ever Python project, consisting of two agent based models 
 
 # Projects
 
+[GEOG5995M Programming for Social Science: Core Skills Assignment 1](projects.md)
 [ABM Practical](https://github.com/ericamcg/ABMpractical)
 
 This project involves two models, a base model and an enhancement 
