@@ -11,4 +11,4 @@ Please enjoy my first ever Python project, consisting of two agent based models 
 
 # Projects
 
-[GEOG5995M Programming for Social Science: Core Skills Assignment 1](projects.md)
+[GEOG5995M Programming for Social Science: Core Skills](projects.md)
