@@ -2,7 +2,7 @@
 
 ### Background
 
-The Parole Board currently have over 16,000 decision letters relating to the results of hearings conducted to decide whether or not a prisoner is an appropraite
+The Parole Board currently have over 16,000 decision letters relating to hearings conducted to decide whether or not a prisoner is an appropraite
  candidate to be granted parole. The letters contain information regarding the defendent, crime, behaviour, conditions, and the decision. 
 
 ### My Role
