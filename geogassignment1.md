@@ -2,6 +2,8 @@
 
 ### [ABM Practical](https://github.com/ericamcg/ABMpractical)
 
+*Please enjoy my first ever python project!*
+
 This project involves two models, a base model and an enhancement 
 
 The base model: 
