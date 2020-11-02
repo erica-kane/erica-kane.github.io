@@ -9,7 +9,7 @@ My name is [Erica McGovern](https://www.linkedin.com/in/erica-mcgovern-65356b140
 
 ## PhD Project 
 
-Click here to find out more about my PhD project.
+Click [here](phdinfo.md) to find out more about my PhD project.
 
 
 ## Programming Projects
