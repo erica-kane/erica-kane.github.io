@@ -1,6 +1,7 @@
 ---
 title: Erica McGovern
 ---
+[](9b2c8597-8f35-43b9-a7c6-3cf593dfea8d.jpeg)
 
 ## About Me
 
