@@ -2,6 +2,8 @@
 title: Erica McGovern
 ---
 
+[](9b2c8597-8f35-43b9-a7c6-3cf593dfea8d.jpeg)
+
 ## About Me
 
 My name is [Erica McGovern](https://www.linkedin.com/in/erica-mcgovern-65356b140/) and I am from Belfast, Northern Ireland. I recently graduated with a BSc in Criminal Justice and Criminology (Quantitative)(International) from the Univeristy of Leeds. I am currently a first year [CDT](https://datacdt.org) student, working towards an MSc and PhD.  
