@@ -12,8 +12,7 @@ The model will:
 - Initialise buildings using these points
 - Initialise drunks attributable to a house
 - Move drunks from the pub to their home
-- Save and plot these movements 
-- Write out a csv file of the movements 
+- Save, plot, and write out a csv file of these movements 
 
 
 **Please refer to the [README](https://github.com/erica-kane/CPSA2/blob/main/README.md) file before attempting to run the model.**
