@@ -15,5 +15,7 @@ The two datasets are linked, and then I created useful variables from those prov
 
 The realtionships between all variables and sales were observed, before creating a final dataset and building a predictive random forest model.
 
+The [reportscript.py](https://github.com/erica-kane/UDATEReport/blob/master/reportscript.py) file shows the code which was developed for the analysis.
+
 
 [Return to homepage](index.md)
