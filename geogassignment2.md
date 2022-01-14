@@ -1,6 +1,6 @@
-## GEOG5995M Programming for Social Science Core Skills: Assignment 2
+## Planning for drunks 
 
-### [Planning for Drunks](https://github.com/erica-kane/CPSA2)
+### [View project repository](https://github.com/erica-kane/CPSA2)
 
 
 This project involves a model which simulates the movements of drunks on their way home from a pub, and plots their paths. 
