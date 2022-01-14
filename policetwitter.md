@@ -1,4 +1,4 @@
-## Police use of Twitter
+## How police Twitter usage changes in periods of political tension
 
 
 [View repository](https://github.com/erica-kane/uk_police_twitter)
