@@ -1,6 +1,6 @@
 ## Sheep and wolves
 
-### [Find the code and files in the repo](https://github.com/ericamcg/ABMpractical)
+[View repository](https://github.com/ericamcg/ABMpractical)
 
 *Please enjoy my first ever python project!*
 
