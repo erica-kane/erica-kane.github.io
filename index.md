@@ -5,22 +5,22 @@ title: Erica Kane
 
 ## About Me
 
-My name is [Erica Kane](https://www.linkedin.com/in/erica-kane-65356b140/) and I am from Belfast, Northern Ireland. I recently graduated with a BSc in Criminal Justice and Criminology (Quantitative)(International) from the Univeristy of Leeds. I am currently a second year [CDT](https://datacdt.org) student, working towards an MSc and PhD in Data Analytics and Scoiety.  
+My name is [Erica Kane](https://www.linkedin.com/in/erica-kane-65356b140/) and I am from Belfast, Northern Ireland. I recently graduated with a BSc in Criminal Justice and Criminology (Quantitative)(International) from the University of Leeds. I am currently a second year [CDT](https://datacdt.org) student, working towards an MSc and PhD in Data Analytics and Society.  
 
-I am a beginner programmer, and my current main experience lies in R and Python. I have complete projects across a variety of topics using several different analytical methods including: 
+I am a beginner data analyst, and my current main experience lies in R and Python. I have complete projects across a variety of topics using several different analytical methods including: 
 
 - Logistic and linear regression models 
-- Data visualisaiton 
+- Data visualisation 
 - Agent based modelling 
 - Machine learning 
   - K-means clustering 
-  - Random forrest
+  - Random forest
   - UMAP
   - Classifiers 
 - Natural language processing 
   - Text preparation
   - Sentiment analysis 
-  - Word frequencies and co-occurances 
+  - Word frequencies and co-occurrences  
 
 
 ## PhD Project 
@@ -30,11 +30,11 @@ Click [here](phdinfo.md) to find out more about my PhD project.
 
 ## Projects
 
-[ABM - Sheep and wolves](geogassignment1.md)
+[Sheep and wolves (ABM)](geogassignment1.md)
 
-[ABM - Planning for drunks](geogassignment2.md)
+[Planning for drunks (ABM)](geogassignment2.md)
 
-[ML (K-means and RF) - Predicting social trust](DSS.md)
+[Predicting social trust (ML - k-means and RF)](DSS.md)
 
 
 
