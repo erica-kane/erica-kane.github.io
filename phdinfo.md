@@ -23,5 +23,10 @@ So far, steps that have been taken in the project include:
 
 Due to the high sensitivity of the data the transfer process is still ongoing. Within the next six months I hope to have received  the data to begin familiarising myself with it. The next step after this will be the anonymisation process which will be conducted in a [LASER](https://lida.leeds.ac.uk/about-lida/integrated-research-campus/) secure lab. During this period I also intend to spend some time with the Parole Board in person to learn more about the structure and procedures of the organisation themselves. 
 
+#### Supervisors 
+
+[Dr. Jose Pina-Sánchez](https://essl.leeds.ac.uk/law/staff/222/dr-jose-pina-sanchez)
+[Dr. Daniel Birks](https://essl.leeds.ac.uk/law/staff/261/dr-daniel-birks)
+
 
 [Return to homepage](index.md)
