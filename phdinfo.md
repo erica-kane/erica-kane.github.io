@@ -26,7 +26,10 @@ Due to the high sensitivity of the data the transfer process is still ongoing. W
 #### Supervisors 
 
 [Dr. Jose Pina-Sánchez](https://essl.leeds.ac.uk/law/staff/222/dr-jose-pina-sanchez)
+
 [Dr. Daniel Birks](https://essl.leeds.ac.uk/law/staff/261/dr-daniel-birks)
+
+
 
 
 [Return to homepage](index.md)
