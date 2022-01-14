@@ -1,5 +1,7 @@
 ## PhD Project 
 
+Due to the sensitivity of this project the repository is private.
+
 ### Background
 
 The Parole Board currently have over 16,000 decision letters, each relating to a hearing conducted to decide whether or not a prisoner is an appropriate candidate to be granted parole. The letters contain information regarding the defendant, crime, behaviour, conditions, and the decision. These letters are currently in natural language format so have not been explored on a large-scale basis to discover patterns in the parole process.
