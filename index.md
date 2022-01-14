@@ -30,7 +30,11 @@ Click [here](phdinfo.md) to find out more about my PhD project.
 
 ## Projects
 
-[GEOG5995M Programming for Social Science Core Skills: Assignment 1](geogassignment1.md)
+[ABM - Sheep and wolves](geogassignment1.md)
 
-[GEOG5995M Programming for Social Science Core Skills: Assignment 2](geogassignment2.md)
+[ABM - Planning for drunks](geogassignment2.md)
+
+[ML (K-means and RF) - Predicting social trust](DSS.md)
+
+
 
