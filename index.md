@@ -29,12 +29,23 @@ Click [here](phdinfo.md) to find out more about my PhD project.
 
 
 ## Projects
+### Complete Projects
 
 [Sheep and wolves (ABM)](geogassignment1.md)
 
 [Planning for drunks (ABM)](geogassignment2.md)
 
 [Predicting social trust (ML - k-means and RF)](DSS.md)
+
+[Rossman pharmaceutical sales (RF)](UDATE.md)
+
+### Current Projects 
+
+[Police use of Twitter (UMAP, classifiers, NLP)](https://github.com/erica-kane/uk_police_twitter)
+
+Parole Board victim study (due to the sensitivity of the data this repository is private)
+
+Parole Board PhD project (due to the sensitivity of the data this repository is private)
 
 
 
