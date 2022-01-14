@@ -1,6 +1,6 @@
 ## Planning for drunks 
 
-[View project repository](https://github.com/erica-kane/CPSA2)
+[View repository](https://github.com/erica-kane/CPSA2)
 
 
 This project involves a model which simulates the movements of drunks on their way home from a pub, and plots their paths. 
