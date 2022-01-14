@@ -39,13 +39,13 @@ Click [here](phdinfo.md) to find out more about my PhD project.
 
 [Rossman pharmaceutical sales (linear regression, RF)](UDATE.md)
 
-[The death of George Floyd: police use of Twitter and the public's response (data visualisation, NLP)](blmtweet.md)
+[How the police used Twitter after George Floyd's death (data visualisation, NLP)](blmtweet.md)
 
 ### Current Projects 
 
 [Police use of Twitter (UMAP, classifiers, NLP)](policetwitter.md)
 
-[Parole Board victim study (logistic regression)(victims.md)
+[Parole Board victim study (logistic regression)](victims.md)
 
 [Parole Board PhD project](phdinfo.md)
 
