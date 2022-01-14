@@ -26,21 +26,21 @@ I am a beginner data analyst, and my current main experience lies in R and Pytho
 ## Projects
 ### Complete Projects
 
-[Sheep and wolves](geogassignment1.md)(ABM)
+[Sheep and wolves](geogassignment1.md) (ABM)
 
-[Planning for drunks(geogassignment2.md)(ABM)]
+[Planning for drunks](geogassignment2.md) (ABM)
 
-[Predicting social trust](DSS.md)(ML - k-means and RF)
+[Predicting social trust](DSS.md) (ML - k-means and RF)
 
-[Rossman pharmaceutical sales](UDATE.md)(linear regression, RF)
+[Rossman pharmaceutical sales](UDATE.md) (linear regression, RF)
 
-[How the police used Twitter after George Floyd's death and the public's response](blmtweet.md)(data visualisation, NLP)
+[How the police used Twitter after George Floyd's death and the public's response](blmtweet.md) (data visualisation, NLP)
 
 ### Current Projects 
 
-[How police Twitter usage changes in periods of political tension](policetwitter.md)(UMAP, classifiers, NLP)
+[How police Twitter usage changes in periods of political tension](policetwitter.md) (UMAP, classifiers, NLP)
 
-[Parole Board victim study](victims.md)(logistic regression)
+[Parole Board victim study](victims.md) (logistic regression)
 
 [PhD project](phdinfo.md)
 
