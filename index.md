@@ -37,15 +37,17 @@ Click [here](phdinfo.md) to find out more about my PhD project.
 
 [Predicting social trust (ML - k-means and RF)](DSS.md)
 
-[Rossman pharmaceutical sales (RF)](UDATE.md)
+[Rossman pharmaceutical sales (linear regression, RF)](UDATE.md)
+
+[The death of George Floyd: police use of Twitter and the public's response (data visualisation, NLP)](blmtweet.md)
 
 ### Current Projects 
 
-[Police use of Twitter (UMAP, classifiers, NLP)](https://github.com/erica-kane/uk_police_twitter)
+[Police use of Twitter (UMAP, classifiers, NLP)](policetwitter.md)
 
-Parole Board victim study (due to the sensitivity of the data this repository is private)
+[Parole Board victim study (logistic regression)(victims.md)
 
-Parole Board PhD project (due to the sensitivity of the data this repository is private)
+[Parole Board PhD project](phdinfo.md)
 
 
 
