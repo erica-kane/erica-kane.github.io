@@ -23,11 +23,6 @@ I am a beginner data analyst, and my current main experience lies in R and Pytho
   - Word frequencies and co-occurrences  
 
 
-## PhD Project 
-
-Click [here](phdinfo.md) to find out more about my PhD project.
-
-
 ## Projects
 ### Complete Projects
 
