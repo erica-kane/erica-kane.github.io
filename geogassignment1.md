@@ -1,6 +1,6 @@
-## GEOG5995M Programming for Social Science Core Skills: Assignment 1
+## Sheep and wolves
 
-### [ABM Practical](https://github.com/ericamcg/ABMpractical)
+[View repository](https://github.com/ericamcg/ABMpractical)
 
 *Please enjoy my first ever python project!*
 
