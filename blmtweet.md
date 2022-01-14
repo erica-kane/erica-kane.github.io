@@ -1,4 +1,4 @@
-## The death of George Floyd: police use of Twitter and the public's response
+## How the police used Twitter after George Floyd's death
 
 [View repository](https://github.com/erica-kane/SMI610-Assignment)
 
